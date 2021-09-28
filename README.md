@@ -3,7 +3,7 @@
 - 🎓 Estudando como full stack 😎
 - 🧑‍💻 Trabalhando como front end 😄
 - 💰 Vivendo como estagiário 😒  
-- 📫 Fale comigo em: vifigueiredo@outlook.com.br
+- 📫 Fale comigo em: vifigueiredo@outlook.com.br 🤝
 
 <div align="center">
   <a href="https://github.com/vifigueiredo">
