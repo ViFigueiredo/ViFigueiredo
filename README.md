@@ -1,4 +1,6 @@
-### Eai! Me chamo Vinicius Figueiredo e seja bem-vindo ao meu perfil 😁 
+### Eai! Me chamo Vinicius Figueiredo e seja bem-vindo ao meu perfil 😁
+
+##
 
 - 🎓 Estudando como full stack 😎
 - 🧑‍💻 Trabalhando como front end 😄
