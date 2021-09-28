@@ -1,9 +1,9 @@
 ### Eai! Me chamo Vinicius Figueiredo e seja bem-vindo ao meu perfil 😁 
 
-- 🌱 Estudando como full stack
-- 🔭 Trabalhando como front end
-- 💰 Ganhando como estagiário  
-- 📫 Fale comigo no: vifigueiredo@outlook.com.br
+- 🎓 Estudando como full stack 😎
+- 🧑‍💻 Trabalhando como front end 😄
+- 💰 Vivendo como estagiário 😒  
+- 📫 Fale comigo em: vifigueiredo@outlook.com.br
 
 <div align="center">
   <a href="https://github.com/vifigueiredo">
