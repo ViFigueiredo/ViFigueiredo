@@ -1,3 +1,41 @@
-[![ViFigueiredo GitHub stats](https://github-readme-stats.vercel.app/api?username=vifigueiredo)](https://github.com/anuraghazra/github-readme-stats)
+## Fala dev! Me chamo Vinicius Figueiredo e sou Analista/Desenvolvedor de Sistemas na Avantti Consultoria!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vifigueiredo)](https://github.com/anuraghazra/github-readme-stats)
+Atualmente me dedico solitariamente ao desenvolvimento do CRM de vendas da empresa em que atuo. E aqui você vai encontrar um pouco das minhas tecnologias favoritas, meus aprendizados e resultados ;)
+
+Sinta-se livre para entrar em contato comigo!
+
+<div style="display:flex; margin:0 15px">
+  <a style="margin-right: 15px" href="https://www.linkedin.com/in/vifigueiredo/">
+  
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  
+  <a href="mailto:vifigueiredo@outlook.com.br">
+
+  ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
+</div><br>
+
+  ## Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+</div><br>
+  
+  ## Stats
+
+<div style="display:flex;justify-content:space-around;align-items:center;">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vifigueiredo&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vifigueiredo)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
