@@ -29,6 +29,10 @@ Sinta-se livre para entrar em contato comigo!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vifigueiredo&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
+<div style="width:200px">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vifigueiredo)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
