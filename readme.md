@@ -1,4 +1,4 @@
-## #Fala dev! Me chamo Vinicius Figueiredo e sou Analista/Desenvolvedor de Sistemas na Avantti Consultoria!
+## #Fala dev! Me chamo Vinicius Figueiredo e sou Analista/Desenvolvedor de Sistemas na Avantti Consultoria
 
 Atualmente me dedico solitariamente ao desenvolvimento do CRM de vendas da empresa em que atuo. E aqui você vai encontrar um pouco das minhas tecnologias favoritas, meus aprendizados e resultados ;)
 
@@ -25,7 +25,7 @@ Sinta-se livre para entrar em contato comigo!
   
 ## #Stats
 
-<div style="display:flex;justify-content:space-around;align-items:center;">
+<div style="">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vifigueiredo&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
