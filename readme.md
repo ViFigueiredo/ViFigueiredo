@@ -4,15 +4,7 @@ Atualmente me dedico solitariamente ao desenvolvimento do CRM de vendas da empre
 
 Sinta-se livre para entrar em contato comigo!
 
-<div style="display:flex; margin:0 15px">
-
-    <a href="https://www.linkedin.com/in/vifigueiredo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  
-  <a href="mailto:vifigueiredo@outlook.com.br">
-
-  ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
-</div><br>
+<a href="https://www.linkedin.com/in/vifigueiredo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ## Tecnologias
 
