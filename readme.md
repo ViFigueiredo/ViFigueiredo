@@ -22,17 +22,3 @@ Sinta-se livre para entrar em contato comigo!
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div><br>
-  
-## #Stats
-
-<div style="">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vifigueiredo&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div style="width:50px">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vifigueiredo)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
