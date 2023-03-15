@@ -31,7 +31,7 @@ Sinta-se livre para entrar em contato comigo!
 
 </div>
 
-<div style="width:200px">
+<div style="width:50px">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vifigueiredo)](https://github.com/anuraghazra/github-readme-stats)
 
