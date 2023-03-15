@@ -1,4 +1,4 @@
-## Fala dev! Me chamo Vinicius Figueiredo e sou Analista/Desenvolvedor de Sistemas na Avantti Consultoria!
+## #Fala dev! Me chamo Vinicius Figueiredo e sou Analista/Desenvolvedor de Sistemas na Avantti Consultoria!
 
 Atualmente me dedico solitariamente ao desenvolvimento do CRM de vendas da empresa em que atuo. E aqui você vai encontrar um pouco das minhas tecnologias favoritas, meus aprendizados e resultados ;)
 
@@ -8,7 +8,7 @@ Sinta-se livre para entrar em contato comigo!
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-## Tecnologias
+## #Tecnologias
 
 <div style="display:inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,7 +23,7 @@ Sinta-se livre para entrar em contato comigo!
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div><br>
   
-## Stats
+## #Stats
 
 <div style="display:flex;justify-content:space-around;align-items:center;">
 
