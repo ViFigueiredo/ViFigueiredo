@@ -4,7 +4,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Trabalhando como **ANALISTA E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.linkedin.com/company/avantti-consultoria/mycompany/"> Avantti Consultoria</a>
+- 💼 &nbsp; Trabalhando como **ANALISTA E DESENVOLVEDOR DE SISTEMAS** na <a href="https://www.linkedin.com/company/avantti-consultoria/mycompany/"> Avantti Consultoria</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Vue/Nuxt/TailwindCSS**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
