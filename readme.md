@@ -45,8 +45,8 @@
 
 <br/>
 
-<a href="https://github.com/Vifigueiredo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vifigueiredo &theme=dracula&show_icons=true" />
+<a href="https://github.com/ViFigueiredo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViFigueiredo &theme=dracula&show_icons=true" />
 </a>
 
 <br/>
