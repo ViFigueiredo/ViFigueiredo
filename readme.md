@@ -24,7 +24,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=Mongodb&logoColor=1572B6)
   ![MSSQLServer](https://img.shields.io/badge/-MSSQLServer-333333?style=flat&logo=microsoft-sql-server&logoColor=1572B6)
 
-**Utilidades**
+**Produtividade**
 
   ![Todoist](https://img.shields.io/badge/-Todoist-333333?style=flat&logo=Todoist&logoColor=007ACC)
 
