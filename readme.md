@@ -20,11 +20,13 @@
   ![NuxtJS](https://img.shields.io/badge/-NuxtJS-333333?style=flat&logo=Nuxt.js&logoColor=1572B6)
   
 **Estilizações**
+
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS&logoColor=1572B6)
   ![Flowbite](https://img.shields.io/badge/-Flowbite-333333?style=flat&logo=&logoColor=1572B6)
   ![Primevue](https://img.shields.io/badge/-Primevue-333333?style=flat&logo=&logoColor=1572B6)
   
 **Modelagem de dados**
+
   ![dbdiagram.io](https://img.shields.io/badge/-dbdiagram.io-333333?style=flat&logo=dbdiagram.io&logoColor=1572B6)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=Mongodb&logoColor=1572B6)
   ![MSSQLServer](https://img.shields.io/badge/-MSSQLServer-333333?style=flat&logo=microsoft-sql-server&logoColor=1572B6)
