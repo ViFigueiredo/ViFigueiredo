@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 💼 &nbsp; Trabalhando como **ANALISTA E DESENVOLVEDOR DE SISTEMAS** na <a href="https://www.linkedin.com/company/avantti-consultoria/mycompany/"> Avantti Consultoria</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Vue/Nuxt/TailwindCSS**.
+- 🌱 &nbsp; Aprendendo mais sobre **Node/Nuxt/TailwindCSS**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
