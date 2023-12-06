@@ -44,6 +44,8 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Dbeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat&logo=DBeaver&logoColor=007ACC)
+  ![SSMS](https://img.shields.io/badge/-SSMS-333333?style=flat&logo=DBeaver&logoColor=007ACC)
+  ![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-333333?style=flat&logo=DBeaver&logoColor=007ACC)
   ![WSL](https://img.shields.io/badge/-WSL-333333?style=flat&logo=WSL&logoColor=007ACC)
 
 <br/>
