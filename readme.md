@@ -9,24 +9,25 @@
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Aplicações e Dados**
+**Stack e Frameworks**
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS&logoColor=1572B6)
-  ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js&logoColor=1572B6)
-  ![Primevue](https://img.shields.io/badge/-Primevue-333333?style=flat&logo=&logoColor=1572B6)
-  ![NuxtJS](https://img.shields.io/badge/-NuxtJS-333333?style=flat&logo=Nuxt.js&logoColor=1572B6)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node.js&logoColor=1572B6)
-  ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=Postgresql&logoColor=1572B6)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js&logoColor=1572B6)
+  ![NuxtJS](https://img.shields.io/badge/-NuxtJS-333333?style=flat&logo=Nuxt.js&logoColor=1572B6)
+  
+**Estilizações**
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS&logoColor=1572B6)
+  ![Flowbite](https://img.shields.io/badge/-Flowbite-333333?style=flat&logo=&logoColor=1572B6)
+  ![Primevue](https://img.shields.io/badge/-Primevue-333333?style=flat&logo=&logoColor=1572B6)
+  
+**Modelagem de dados**
+  ![dbdiagram.io](https://img.shields.io/badge/-dbdiagram.io-333333?style=flat&logo=dbdiagram.io&logoColor=1572B6)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=Mongodb&logoColor=1572B6)
   ![MSSQLServer](https://img.shields.io/badge/-MSSQLServer-333333?style=flat&logo=microsoft-sql-server&logoColor=1572B6)
-
-**Produtividade**
-
-  ![Todoist](https://img.shields.io/badge/-Todoist-333333?style=flat&logo=Todoist&logoColor=007ACC)
 
 **DevOps**
 
